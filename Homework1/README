@@ -1,0 +1,1 @@
+For running each python file, open a new terminal, change directory to where the file (.py) is, then run using: python FILENAME.py  (example: python Q1-variables.py)

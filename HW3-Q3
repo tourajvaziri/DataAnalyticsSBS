@@ -4,7 +4,7 @@
 In [11]: file = open("carData.csv")
 
 In [12]: for line in file:
-    ...:     print(line.strip())
+    ...:     print(line)
     ...:
 carmodel,price,year
 fiat,$14000,2017

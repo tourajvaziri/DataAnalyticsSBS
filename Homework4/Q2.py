@@ -1,10 +1,9 @@
 # Create a variable of type list that contains these four vegetable names: Zuchhini, Tomato, Pepper, Onion
 
 
+# Then using the list variable perform the following,
 
-# Then using the list variable perform the following;
-
-# 1. Print all the vegetables names contain in it
+# 1. Print all the vegetable names contain in it
 
 
 # 2. Add a new vegetable (Potato) to the end of the list
@@ -19,7 +18,7 @@
 # 5. Update the element 'Onion' to 'Yellow Onion'
 
 
-# 6. Print out the number of vegetables in the list
+# 6. Print out the number of vegetables in the list (i.e size of the list)
 
 
-# 7. Sort the vegetables alphabitically 
+# 7. Sort the vegetables alphabitically

@@ -9,3 +9,15 @@ emails = ['user3@yahoo.com', 'user25@gmail.com', 'user18@yahoo.com', 'user9@yaho
 # Then loop through the emails list: for each email address check if it is 'yahoo' or 'gmail':
 #   If 'yahoo', update the 'yahoo' key in the dictionary, set the value:  current value + 1.
 #   If 'gmail', update the 'gmail' key in the dictionary, set the value:  current value + 1.
+
+In [8]: emails_count = {'yahoo': 0, 'gmail': 0}
+
+In [9]: for email in emails:
+   ...:     if 'yahoo' in email:
+   ...:         emails_count['yahoo'] += 1
+   ...:     elif 'gmail' in email:
+   ...:         emails_count['gmail'] += 1
+   ...:
+
+In [10]: print(emails_count)
+{'yahoo': 24, 'gmail': 33}

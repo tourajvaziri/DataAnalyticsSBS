@@ -23,8 +23,6 @@ Full Instructions available in pages of the book:
 11. You can shut down Jupyter session using: File -> Shut down
 
 
-****Upload the created ‘homework6.ipynb’ here before the deadline.****
-
 
 Option B) Use Jupyter extension for Vscode
 Open VScode:
@@ -37,6 +35,3 @@ Open VScode:
 5. Run using (Shift + Enter)
 ￼![Alt text](<Pasted Graphic 2.png>)
 6. Save the notebook: Give it  a name. i.e. homework6a.ipynb
-
-
-****Upload the created ‘homework6.ipynb’ here before the deadline.****

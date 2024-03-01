@@ -1,13 +1,18 @@
 Install and setup Jupyter notebook in your machine.
+
 You can either: 
-Option A) Run ‘Jypyter notebook’ in a terminal 
+
+Option A) Run ‘Jypyter notebook’ in a terminal
+
 Option B) Use Jupyter extension for Vscode
 Note: Feel free to pick one option
 
 
+
+
 Option A) Run ‘Jypyter notebook’ in a terminal:
 
-Full Instructions available in pages of the book: 
+_Full Instructions available in pages of the book: https://wesmckinney.com/book/python-basics#ipython_basics_notebook_
 
 1. Open a new terminal, navigate to the directory you want using: ‘cd …’
 2. Install jupyter notebook using: conda install jupyter

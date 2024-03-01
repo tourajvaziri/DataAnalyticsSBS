@@ -2,15 +2,15 @@ Install and setup Jupyter notebook in your machine.
 
 You can either: 
 
-Option A) Run ‘Jypyter notebook’ in a terminal
+**Option A) Run ‘Jypyter notebook’ in a terminal**
 
-Option B) Use Jupyter extension for Vscode
-Note: Feel free to pick one option
+**Option B) Use Jupyter extension for Vscode**
 
+_Note: Feel free to pick one option_
 
+******
 
-
-Option A) Run ‘Jypyter notebook’ in a terminal:
+**Option A) Run ‘Jypyter notebook’ in a terminal:**
 
 _Full Instructions available in pages of the book: https://wesmckinney.com/book/python-basics#ipython_basics_notebook_
 
@@ -27,9 +27,9 @@ _Full Instructions available in pages of the book: https://wesmckinney.com/book/
 10. Close the notebook: File -> Close and shutdown notebook
 11. You can shut down Jupyter session using: File -> Shut down
 
+****
 
-
-Option B) Use Jupyter extension for Vscode
+**Option B) Use Jupyter extension for Vscode**
 Open VScode:
 1. Go to plugins: Install Jupyter extension. (Requires installation of Python extension as well)
 2. Once installed, Open the command pallete (Ctrl + Shift + P) and run jupyter: Create new jupyter notebook.
